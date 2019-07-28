@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
-	<version>1.5.0</version>
+	<version>1.5.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>devops</name>
 	<description>Project for DevOps Course</description>
@@ -36,7 +36,7 @@
 	  <connection>scm:git:git@github.com:nandudemy/devops.git</connection>
 	  <developerConnection>scm:git:git@github.com:aprendizdedevops/devops.git</developerConnection>
 	  <url>git@github.com:aprendizdedevops/devops.git</url>
-	  <tag>v1.5.0</tag>
+	  <tag>v1.3.0</tag>
 	</scm>
 
 
